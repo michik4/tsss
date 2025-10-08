@@ -1,4 +1,6 @@
 # tsss
 
 ## install and run (linux)
-`curl -O https://raw.githubusercontent.com/michik4/tsss/refs/heads/main/linux/tsss.sh && chmod +x tsss.sh && ./tsss.sh`
+```bash
+curl -O https://raw.githubusercontent.com/michik4/tsss/refs/heads/main/linux/tsss.sh && chmod +x tsss.sh && ./tsss.sh
+```
