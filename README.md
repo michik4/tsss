@@ -1,7 +1,7 @@
 # TSSS - TypeScript Setup Script
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Version](https://img.shields.io/badge/version-1.0.0-green.svg)](https://github.com/michik4/tsss)
+[![Version](https://img.shields.io/badge/version-0.0.1-green.svg)](https://github.com/michik4/tsss)
 [![Platform](https://img.shields.io/badge/platform-Linux-lightgrey.svg)](https://github.com/michik4/tsss)
 
 **TSSS** — это интерактивный shell-скрипт, который полностью автоматизирует создание современного, готового к работе Node.js проекта на TypeScript. Забудьте о ручной установке десятков пакетов и создании конфигурационных файлов. Просто запустите один скрипт и начните писать код.
